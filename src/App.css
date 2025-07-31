@@ -12,3 +12,12 @@
 .title {
   font-weight: 700;
 }
+
+.slider {
+  width: 100%;
+}
+
+.lables {
+  display: flex;
+  justify-content: space-between;
+}
